@@ -32,3 +32,33 @@ h1 {
 #closeButton {
   margin: 15px 6px 6px;
 }
+
+.max-width {
+  margin: auto;
+  width: 100%;
+  border: 1px solid green;
+}
+
+.top-header {
+  height: 100px;
+  text-align: center;
+  border: 1px solid white;
+  font-size: 600%;
+}
+
+.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:100px;
+   width:100%;
+  border: 1px solid white;
+  font-size: 200%;
+}
+
+.table {
+  height: 100%;
+  margin: 300px 0px 300px 0px;
+  vertical-align: top;
+  border: 1px solid white;
+}
